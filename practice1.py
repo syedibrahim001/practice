@@ -244,7 +244,7 @@ class Employee(Person):
         Person.__init__(self, name, idnumber)
 
 # creation of an object variable or an instance
-a = Employee('Rahul', 886012, 200000, "Intern")
+a = Employee('ibrahim', 886012, 200000, "Intern")
 
 # calling a function of the class Person using its instance
 a.display()

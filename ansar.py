@@ -16,5 +16,5 @@ class Person(object):
 
 
 # Driver code
-emp = Person("Satyam", 102) # An Object of Person
+emp = Person("syed", 102) # An Object of Person
 emp.Display()
