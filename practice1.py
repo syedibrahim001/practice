@@ -218,4 +218,4 @@
 f=open('C:/Users/Syed Ibrahim/Desktop/.txt','w')
 print(f.write('ansar is serious'))
 
-'abcdefg'
+'abcdefg','vnjefvifv'
